@@ -1,0 +1,1 @@
+KERNEL_CONFIG="%entry_id %linux_name Linux %kernel_version ; root=UUID=5e89b582-95f1-4e2f-b747-bc42a69a371b rootfstype=btrfs rootflags=subvol=@ rw"
