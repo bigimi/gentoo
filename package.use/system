@@ -1,0 +1,3 @@
+sys-kernel/installkernel dracut efistub
+x11-misc/rofi X
+>=media-libs/libpulse-17.0 X
